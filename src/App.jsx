@@ -212,7 +212,7 @@ export default function App() {
           </div>
           <div className="nav-divider" />
           <a
-            href="https://arxiv.org/abs/1602.05629"
+            href="https://drive.google.com/file/d/16V_VO41QDsWZ1u7sMI7yGGdgAn2UA7jI/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="nav-btn"
@@ -416,7 +416,7 @@ export default function App() {
             <button className="nav-btn" onClick={() => setModal('dataset')}>Dataset</button>
             <button className="nav-btn" onClick={() => setModal('privacy')}>Privacy</button>
             <a
-              href="https://github.com"
+              href="https://github.com/Chandrahaas011/fed-heart"
               target="_blank"
               rel="noopener noreferrer"
               style={{ color: 'var(--text-muted)', display: 'flex', alignItems: 'center' }}
